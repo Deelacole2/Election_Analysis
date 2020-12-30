@@ -38,9 +38,29 @@ A Colorado Board of Elcction employee has given you the folowing tasks to comple
 - The winner of the election was:
   - Candidate: Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
  
- ![Audit Results](path) 
- ## Challenge Overview
+ ![Audit Results](https://github.com/Deelacole2/Election_Analysis/blob/main/Resources/results.ss.png) 
+
+## Challenge Overview
  This section will include code snippets for each election outcome.
  
  ## Challenge Summary
+ 
+ I am proposing that we can utilize this same script for elections in the future witha  few minor modifications.
  In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
